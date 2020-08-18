@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/anathkantonda/<OWNER>/<OWNER>/banner.png "Header")](https://anathkantonda.github.io/portfolio)
+![GitHub Logo](banner.png)
 
 ### Hi there 👋
 
