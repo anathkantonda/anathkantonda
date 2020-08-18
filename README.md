@@ -1,7 +1,5 @@
 ![GitHub Logo](banner.png)
 
-### Hi there 👋
-
 <!--
 **anathkantonda/anathkantonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
