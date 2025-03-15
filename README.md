@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Data Analyst, Mentor, Developer, Education & Tech Enthusiast
-- ⚡ TFT, Smite, Pokemon TCG, MTG, LOL, DOTA
+- 🔭 Education Program Manager and Data Analyst, Mentor, Developer
+- 🎮 TFT, Smite, Pokemon TCG, LOL
 
