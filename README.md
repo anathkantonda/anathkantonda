@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Education Program Manager and Data Analyst, Mentor, Developer
+- 🔭 Project Manager
 - 🎮 TFT, Smite, Pokemon TCG, LOL
 
