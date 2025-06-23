@@ -1,7 +1,7 @@
 ![GitHub Logo](images/banner.png)
 
 <div align="center">
-  <h1>Hi there, I'm Anath Kantonda 👋</h1>
+  <h1>I'm Anath Kantonda 👋</h1>
   <p>A Project Manager and Frontend Developer</p>
 </div>
 
