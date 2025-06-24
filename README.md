@@ -94,7 +94,7 @@
     </tr>
     <tr>
       <td><a href="[Link to Project 3 Repo]">[Your Next Project Idea]</a></td>
-      <td><i>(Coming Soon)</i> A [brief idea of your next project, e.g., "e-commerce prototype," "data visualization dashboard"].</td>
+      <td><i>(Coming Soon)</i> A [brief idea of your next project, e.g., "e-commerce prototype," "data visualisation dashboard"].</td>
       <td>React, [Other Tech]</td>
     </tr>
   </tbody>
@@ -131,7 +131,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anathkantonda&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anath's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=anathkantonda&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anath's GitHub Stats" />-->
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=anathkantonda&theme=radical&hide_border=true" alt="Anath's GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anathkantonda&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
