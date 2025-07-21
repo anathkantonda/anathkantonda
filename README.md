@@ -13,7 +13,7 @@
 
 <p>I'm a passionate and results-driven professional with a unique blend of experience in <strong>Software Engineering</strong> and <strong>Project Management</strong>. After a fulfilling period steering projects and leading teams, I'm enthusiastically returning to my roots in development, specifically focusing on becoming a proficient <strong>Frontend Developer</strong>.</p>
 
-<p>My journey through the ALX ProDev Frontend Development course is reigniting my love for crafting intuitive and engaging user experiences. True engineering excellence lies in building not just beautiful interfaces but also highly functional, performant, and maintainable web applications. My background in project management has instilled in me a strong understanding of product lifecycle, team collaboration, and delivering impactful solutions, which I now bring to my development work.</p>
+<p>True engineering excellence lies in building not just beautiful interfaces but also highly functional, performant, and maintainable web applications. My background in project management has instilled in me a strong understanding of product lifecycle, team collaboration, and delivering impactful solutions, which I now bring to my development work.</p>
 
 <p>Currently, my goal is to leverage my renewed coding and professional skills to contribute as a Frontend Developer within my current company, focusing on innovative and user-centric web solutions.</p>
 
