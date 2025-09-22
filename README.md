@@ -107,7 +107,7 @@
 
 ## 🤝 Let's Connect!
 
-<p>I'm always open to collaborating on interesting projects, sharing knowledge, and discussing new opportunities, especially those involving React, Next.js, and TypeScript. Let's build something amazing together!</p>
+<p>I'm always open to collaborating on interesting projects, sharing knowledge, and discussing new opportunities, especially those involving Frontend Dev. Let's build something amazing together!</p>
 
 <p align="center">
   <a href="mailto:anathkantonda@gmail.com">
