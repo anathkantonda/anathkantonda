@@ -1,6 +1,9 @@
 ![GitHub Logo](images/banner.png)
 
-<div align="center">
+<h3>I was previously a full stack dev, but went through a rough patch that made me pivot. I am now a Project Manager who, get this, has fallen in love with code <i>again</i> 😅 </h3>
+<p>So I am going back to the basics and working my way up again. Join me on this journey!</p>
+
+<!-- <div align="center">
   <h1>👋</h1>
   <p>A Project Manager and Frontend Developer</p>
 </div>
@@ -64,7 +67,7 @@
 
 <br>
 
----
+--- -->
 
 <!--## 💻 Projects
 
@@ -105,7 +108,7 @@
 
 --- -->
 
-## 🤝 Let's Connect!
+<!-- ## 🤝 Let's Connect!
 
 <p>I'm always open to collaborating on interesting projects, sharing knowledge, and discussing new opportunities, especially those involving Frontend Dev. Let's build something amazing together!</p>
 
@@ -125,15 +128,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=anathkantonda&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anath's GitHub Stats" />-->
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=anathkantonda&theme=radical&hide_border=true" alt="Anath's GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anathkantonda&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
 
 ---
-
+-->
 <p align="center">
   <i>"The best way to predict the future is to create it."</i>
 </p>
