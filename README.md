@@ -1,7 +1,7 @@
 ![GitHub Logo](images/banner.png)
 
 <h3>Was previously a full stack dev, but went through a rough patch that made me pivot. I am now a Project Manager who, get this, has fallen in love with code <i>again</i> 😅 </h3>
-<p>I'm learning Frontend. Join me on this journey!</p>
+<p>Join me on this journey!</p>
 
 <!-- <div align="center">
   <h1>👋</h1>
