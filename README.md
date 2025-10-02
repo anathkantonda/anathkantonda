@@ -1,6 +1,6 @@
 ![GitHub Logo](images/banner.png)
 
-<h3 align="center">Developer & Analyst</h3>
+<h3 align="center">Project Manager going back to my roots.</h3>
 
 ---
 <p align="center">
